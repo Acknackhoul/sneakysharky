@@ -1,0 +1,14 @@
+{
+  "name": "discord-bot-gmbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "author": "Moen",
+  "dependencies": {
+    "d20": "^1.4.1",
+    "discord.js": "^11.1.0",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.3",
+    "ytdl-core": "^0.14.4"
+  }
+}
